@@ -1,6 +1,8 @@
 # RMSkins
 ## Weather Skin
 
+In order to show the wind-direction characters, the INI file must be saved as UTF-16
+
 There are two(2) edits you need to make, in order to get the skin working
 
 1. apiKey, located around line 20
